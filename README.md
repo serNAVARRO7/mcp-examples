@@ -6,7 +6,7 @@ cd ./01-start
 npx -y @modelcontextprotocol/inspector npx -y tsx main.ts
 ```
 
-## Server Examples:
+### Server Examples:
 https://github.com/modelcontextprotocol/servers
 
 ### Find awesome MCP Servers:
